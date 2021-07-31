@@ -1,7 +1,6 @@
 # MIN GI HAN
 
 ### Who Am I
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=hmgi&show_icons=true&theme=radical">
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hk335078)](https://solved.ac/hk335078)

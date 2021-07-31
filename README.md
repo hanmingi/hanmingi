@@ -1,10 +1,10 @@
 # MIN GI HAN
 
 ### Who Am I
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=hmgi&show_icons=true&theme=radical">
 
-<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hk335078">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmgi&show_icons=true&theme=radical)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hk335078)](https://solved.ac/hk335078)
 
 Hello My name is Mingi Han, I am a Python developer! 
 

@@ -1,6 +1,8 @@
+# MIN GI HAN
+
 ### Who Am I
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hk335078">
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hk335078">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmgi&show_icons=true&theme=radical)
 

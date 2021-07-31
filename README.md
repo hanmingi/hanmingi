@@ -1,11 +1,21 @@
 # MIN GI HAN
 
 ### Who Am I
+Hello My name is Mingi Han, I am a Python developer! 
+
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=hmgi" height="165">
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hk335078)](https://solved.ac/hk335078)
 
-Hello My name is Mingi Han, I am a Python developer! 
+
+
+
+
+
+
+
 
 ### &#9997; Career
 | **Type** | **Date** | **Contents** | **Organization** |

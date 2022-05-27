@@ -1,7 +1,7 @@
 # MIN GI HAN
 
 ### Who Am I
-Hello My name is Mingi Han, I am a Python developer! 
+Hello My name is Mingi Han, I am a JAVA developer! 
 
 
 [![Solved.ac

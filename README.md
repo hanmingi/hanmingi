@@ -42,7 +42,7 @@
 
 <div align="center" style="text-align:center">
   
- [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=hanmingi&theme=default)](https://hanmingi.tistory.com) [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=hanmingi&postId=188&theme=default)](https://hanmingi.tistory.com/188)
+ [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=hanmingi&theme=default)](https://hanmingi.tistory.com) [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=hanmingi&postId=188&theme=default)](https://hanmingi.tistory.com/169?category=889228)
   
 </div>
   

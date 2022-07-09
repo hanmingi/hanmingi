@@ -33,7 +33,7 @@
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | **🎓 Graduate** | 2016.03 ~ 2022.02 | Department of Software | **Kwangwoon University** |
-| **🏢 Join** | 2022.02 ~         | System software development | **Financial DataSystem** |
+| **🏢 Join** | 2022.02 ~         | System software development(JAVA) | **Financial DataSystem** |
 
 </div>
 <br>

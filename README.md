@@ -55,7 +55,8 @@
 <div align=center>
   
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hk335078)](https://solved.ac/hk335078) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmgi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hk335078)](https://solved.ac/hk335078) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmgi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hmgi&show_icons=true&theme=radical)
   

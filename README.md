@@ -41,18 +41,22 @@
 | **🎓 Graduate** | 2016.03 ~ 2022.02 | Department of Software | **Kwangwoon University** |
 | **🏢 Join** | 2022.02 ~         | System software development(JAVA) | **Financial DataSystem** |
 
+<!--
 </div>
 <br>
 
 <h3 align="center">📝 Blog 📝 </h3>
 
+
 <div align="center" style="text-align:center">
-  
+
  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=hanmingi&theme=default)](https://hanmingi.tistory.com) [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=hanmingi&postId=169&theme=default)](https://hanmingi.tistory.com/169?category=889228)
   
 </div>
   
 <br>
+
+-->
 
 <h3 align="center"> 🐣 Me 🐥 </h3>
 
